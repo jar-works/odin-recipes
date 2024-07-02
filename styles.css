@@ -1,11 +1,15 @@
 * {
     font-family: 'Courier New', Courier, monospace;
     background-color: rgb(235, 235, 235);
+    color: rgb(73, 73, 73);
 }
 
 #main-header { 
     text-decoration-line: underline;
     margin-bottom: 50px;
+    background-color: rgb(171, 216, 255);
+    padding: 10px;
+    width: 100%;
 }
 
 .secondary-header {
