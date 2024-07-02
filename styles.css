@@ -1,0 +1,15 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#main-header { 
+    text-decoration-line: underline;
+    margin-bottom: 50px;
+}
+
+.recipe-item {
+    font-size: 18px;
+    text-decoration: none;
+    list-style: decimal;
+    margin-bottom: 50px;
+}
