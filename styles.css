@@ -19,3 +19,9 @@
     list-style: decimal;
     margin-bottom: 50px;
 }
+
+.recipe-img {
+    border: 4px solid;
+    box-shadow: -5px 10px 10px rgb(63, 63, 63);
+    margin-left: 10px;
+}
