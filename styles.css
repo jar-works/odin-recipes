@@ -9,6 +9,7 @@
     margin-bottom: 50px;
     background-color: rgb(171, 216, 255);
     padding: 10px;
+    text-align: center;
     width: 100%;
 }
 
@@ -17,15 +18,33 @@
     margin-top: 50px;
 }
 
+.recipe-container {
+    margin-bottom: 70px;
+}
+
 .recipe-list {
-    
+    margin-left: 0px;
+    text-align: center;
+    padding: 0;
 }
 
 .recipe-item {
+    border: 2px solid rgba(155, 155, 155, 0.63);
+    border-radius: 10px;
+    padding: 10px;
+    padding-bottom: 20px;
+    background-color: rgb(171, 216, 255);
     font-size: 18px;
-    text-decoration: none;
     list-style: none;
-    margin-bottom: 50px;
+    width: 350px;
+    margin: 10px auto;
+}
+
+.recipe-link {
+    background-color: transparent;
+    padding: 5px;
+    display: inline-block;
+    margin-bottom: 10px;
 }
 
 .recipe-img {
