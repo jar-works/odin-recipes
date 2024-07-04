@@ -17,10 +17,14 @@
     margin-top: 50px;
 }
 
+.recipe-list {
+    
+}
+
 .recipe-item {
     font-size: 18px;
     text-decoration: none;
-    list-style: decimal;
+    list-style: none;
     margin-bottom: 50px;
 }
 
